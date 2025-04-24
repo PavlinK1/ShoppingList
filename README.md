@@ -13,9 +13,10 @@ cd ShoppingList
 
 ## 2. Отваряне и компилиране
 
-1. Отвори `ShoppingList.sln` с Visual Studio.  
-2. Избери **Build → Build Solution** (или натисни Ctrl+Shift+B).  
-3. Увери се, че няма грешки.
+1. Отвори `ShoppingList.exe` с Visual Studio.
+</br>или
+2. билдни с Visual Studio.
+
 
 ---
 
