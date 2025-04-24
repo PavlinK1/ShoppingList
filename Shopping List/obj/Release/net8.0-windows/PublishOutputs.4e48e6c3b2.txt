@@ -1,0 +1,5 @@
+C:\Users\Pepst\source\repos\Shopping List\Shopping List.exe
+C:\Users\Pepst\source\repos\Shopping List\Shopping List.dll
+C:\Users\Pepst\source\repos\Shopping List\Shopping List.deps.json
+C:\Users\Pepst\source\repos\Shopping List\Shopping List.runtimeconfig.json
+C:\Users\Pepst\source\repos\Shopping List\Shopping List.pdb
