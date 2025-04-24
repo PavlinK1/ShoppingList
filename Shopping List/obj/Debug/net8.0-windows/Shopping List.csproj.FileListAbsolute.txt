@@ -1,0 +1,16 @@
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\bin\Debug\net8.0-windows\Shopping List.exe
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\bin\Debug\net8.0-windows\Shopping List.deps.json
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\bin\Debug\net8.0-windows\Shopping List.runtimeconfig.json
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\bin\Debug\net8.0-windows\Shopping List.dll
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\bin\Debug\net8.0-windows\Shopping List.pdb
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping_List.Form1.resources
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.csproj.GenerateResource.cache
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.AssemblyInfoInputs.cache
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.AssemblyInfo.cs
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.dll
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\refint\Shopping List.dll
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.pdb
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\Shopping List.genruntimeconfig.cache
+C:\Users\Pepst\source\repos\Shopping List\Shopping List\obj\Debug\net8.0-windows\ref\Shopping List.dll
